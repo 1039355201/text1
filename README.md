@@ -39,4 +39,9 @@
 6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
 git is free
 learn git 
+<<<<<<< HEAD
 吃顿饭吃大V春风
+=======
+创建分支
+>>>>>>> ff
+conflict
